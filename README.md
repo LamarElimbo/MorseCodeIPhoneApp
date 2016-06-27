@@ -9,3 +9,5 @@ Program Functionality
     - User can choose to either enter words/sentences in English or in morse code and receive a translation in either morse code or English respectively
 - Exercise:
     - Program allows user to practice converting words into morse code and vice versa by providing a random word/morse generator and checking to see if the user's translation is correct 
+- To Do:
+    - Create a settings page allowing user to choose the speed at which they want hear the morse code audio
